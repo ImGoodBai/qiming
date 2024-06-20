@@ -1,5 +1,5 @@
 {
-    "title": "Good宝宝起名",
+    "title": "蓝莺 IM - 打造新一代智能应用，使用蓝莺ChatAI SDK",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -42,6 +42,7 @@
         "ga4@^1.0.1",
         "lanying-grow-ai@^1.0.5"
     ],
+
     "pluginsConfig": {
         "theme-default": {
             "showLevel": false
@@ -52,7 +53,7 @@
             ]
         },
         "github-buttons": {
-            "repo": "ImGoodBai/gitbook-template",
+            "repo": "maxim-top/gitbook-template",
             "types": [
                 "star"
             ],
@@ -64,7 +65,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "@古德白 | <a href='http://qimnig.suishouai.cn/' style='text-decoration:none!important;'>官网</a>",
+            "copyright": "© 2019-2024 美信拓扑 | <a href='https://www.lanyingim.com' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -73,7 +74,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/ImGoodBai/gitbook-template/blob/master",
+            "base": "https://github.com/maxim-top/gitbook-template/blob/master",
             "label": "在GitHub上编辑"
         },
         "favicon": {
@@ -86,44 +87,34 @@
             "style": "flat"
         },
         "sharing": {
-            "douban": true,
-            "facebook": false,
-            "google": false,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": false,
-            "linkedin": false,
-            "messenger": false,
-            "pocket": false,
-            "qq": true,
-            "qzone": false,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": true,
-            "whatsapp": false,
-            "all": [
-                "facebook",
-                "google",
-                "twitter",
-                "weibo",
-                "instapaper",
-                "linkedin",
-                "pocket",
-                "stumbleupon",
-                "qq",
-                "qzone",
-                "douban",
-                "line",
-                "whatsapp"
-            ]
-        },
-        "logo": {
-            "logo": "/assets/logo.png",
+           "douban": true,
+           "facebook": false,
+           "google": false,
+           "hatenaBookmark": false,
+           "instapaper": false,
+           "line": false,
+           "linkedin": false,
+           "messenger": false,
+           "pocket": false,
+           "qq": true,
+           "qzone": false,
+           "stumbleupon": false,
+           "twitter": false,
+           "viber": false,
+           "vk": false,
+           "weibo": true,
+           "whatsapp": false,
+           "all": [
+               "facebook", "google", "twitter",
+               "weibo", "instapaper", "linkedin",
+               "pocket", "stumbleupon", "qq", "qzone","douban","line","whatsapp"
+           ]
+       },
+       "logo":{
+	        "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "http://qimnig.suishouai.cn/"
-        },
+            "url": "https://www.lanyingim.com"
+	    },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
             "mode": "nested",
@@ -137,7 +128,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://mzrkhz.site.chatai101.com"
+            "baseURL": "https://docs.lanyingim.com"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -146,20 +137,20 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "古德白,Good宝宝起名"
+                    "content": "蓝莺IM, 美信拓扑, IM SDK, 即时通讯, 即时通讯云, IM云服务, 移动IM, 开源IM, 企业IM, 聊天软件, 移动客服, 在线客服, IM业务场景, APP社交, 开发者服务, 直播聊天室, 实时音视频, 音视频, 直播平台, 美信反垃圾, 内容安全"
                 }
             ]
         },
         "3-ba": {
-            "token": "3e89b157578ed0821242e3d98c8deb7e"
+            "token": "e78e9e5952ccb5b1b443e429da5f0b03"
         },
         "ga4": {
-            "tag": ""
+            "tag": "G-EE5J5LB4MD"
         },
         "lanying-grow-ai": {
-            "footer_note": "GOOD 1对1宝宝起名",
-            "lanying_link": "https://lanying.link/3qur4g",
-            "sitemap_hostname": "https://mzrkhz.site.chatai101.com/"
+          "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
+          "lanying_link": "https://lanying.link/3qur4g",
+          "sitemap_hostname": "https://docs.lanyingim.com/"
         }
     }
 }
