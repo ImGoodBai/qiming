@@ -1,10 +1,2 @@
 # Table of contents
 * [历史文章](articles/README.md)
-  * [最新](articles/latest/README.md)
-    * [名字对孩子一生的深远影响：你不可忽视的重要性](articles/importance-of-childs-name-37-20240628-1-1-1719575958.md)
-    * [不同文化中的名字故事](articles/name-stories-in-cultures-37-20240628-1-2-1719576043.md)
-    * [理解音韵学：给孩子一个悦耳的名字](articles/understanding-phonology-for-names-37-20240628-1-3-1719576101.md)
-    * [名字笔画数的秘密：吉凶如何影响人生](articles/name-strokes-luck-life-37-20240628-1-4-1719576158.md)
-    * [中国古代中国宝宝起名历史](articles/ancient-chinese-baby-naming-history-37-20240622-1-1-1719063781.md)
-  * [20240622](articles/20240622/README.md)
-    * [唐朝科举状元名字的特点分析](articles/20240622/17190433937146.md)
