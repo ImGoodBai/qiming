@@ -216,6 +216,7 @@ a.btn.pull-left.js-toolbar-action {
 }
 i.fa.fa-align-justify {
     font-size: 20px;
+    color: #000;
 }
 .dropdown.pull-left.font-settings.js-toolbar-action {
     display: none;
