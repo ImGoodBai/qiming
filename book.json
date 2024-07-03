@@ -1,7 +1,7 @@
 {
     "title": "好宝宝起名网",
-    "description": "API文档及文章分享",
-    "author": "jinhai",
+    "description": "分享中国传统文化知识，让每一个宝宝都能有满意的名字。",
+    "author": "goodbai",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -55,7 +55,7 @@
             ]
         },
         "github-buttons": {
-            "repo": "ImGoodBai/gitbook-template",
+            "repo": "ImGoodBai/qiming",
             "types": [
                 "star"
             ],
@@ -76,8 +76,8 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/ImGoodBai/gitbook-template/blob/master",
-            "label": "在GitHub上编辑"
+            "base": "",
+            "label": ""
         },
         "favicon": {
             "shortcut": "/assets/favicon.ico",
@@ -124,7 +124,7 @@
         },
         "logo": {
             "logo": "/assets/logo.png",
-            "logoStyle": "height: 35px;align: left;",
+            "logoStyle": "width: 100%;align: left;",
             "url": "https://qiming.suishouai.cn/"
         },
         "intopic-toc": {
@@ -157,11 +157,11 @@
             "token": "c0091c1bb682847c68053df27bbc5cc4"
         },
         "ga4": {
-            "tag": "G-EE5J5LB4MD"
+            "tag": ""
         },
         "lanying-grow-ai": {
             "footer_note": "好宝宝起名网  1对1宝宝起名服务",
-            "lanying_link": "https://lanying.link/3qur4g",
+            "lanying_link": "",
             "sitemap_hostname": "CanonicalLink"
         }
     }
