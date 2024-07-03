@@ -209,3 +209,28 @@
     max-height: calc( 100vh - 70px );
     overflow-y: auto;
 }
+
+# top menu 
+a.btn.pull-left.js-toolbar-action {
+    display: none;
+}
+i.fa.fa-align-justify {
+    font-size: 20px;
+}
+.dropdown.pull-left.font-settings.js-toolbar-action {
+    display: none;
+}
+
+# logo style 
+.book-logo img {
+    width: 100%;
+    height: auto !important;
+}
+# lanying popup menu right down
+iframe#lanying_icon_iframe {
+    display: none;
+}
+# lanying copyright leftmenu
+a.gitbook-link {
+    display: none !important;
+}
