@@ -76,7 +76,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "",
+            "base": "https://github.com/ImGoodBai/qiming/blob/master",
             "label": ""
         },
         "favicon": {
