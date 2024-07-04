@@ -235,3 +235,10 @@ iframe#lanying_icon_iframe {
 a.gitbook-link {
     display: none !important;
 }
+#github start button
+a.btn.pull-right.hidden-mobile {
+    display: none;
+}
+a.btn.pull-left.js-toolbar-action {
+    display: none;
+}
