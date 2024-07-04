@@ -239,6 +239,6 @@ a.gitbook-link {
 a.btn.pull-right.hidden-mobile {
     display: none;
 }
-a.btn.pull-left.js-toolbar-action {
+a.btn.pull-left.js-toolbar-action:nth-of-type(2) {
     display: none;
 }
